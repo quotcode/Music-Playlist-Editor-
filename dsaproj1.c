@@ -1,4 +1,4 @@
-/*Music Playlist Editor by Rohin Vaidya and Shivam Yadav - Fr. Conceicao Rodrigues College Of Engineering ,Bandra,Mumbai,India */
+/*Music Playlist Editor By Rohin Vaidya and Shivam Yadav - Fr. Conceicao Rodrigues College Of Engineering ,Bandra,Mumbai,India */
 
 #include<stdio.h>
 #include<stdlib.h>
